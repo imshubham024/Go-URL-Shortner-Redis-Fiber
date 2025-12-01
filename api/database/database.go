@@ -3,7 +3,6 @@ package database
 import (
 	"context"
 	"os"
-
 	"github.com/redis/go-redis/v9"
 )
 
