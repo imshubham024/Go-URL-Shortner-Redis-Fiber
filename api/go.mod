@@ -3,8 +3,10 @@ module github.com/mshubham024/go-url-shortner
 go 1.25.1
 
 require (
+	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/gofiber/fiber/v2 v2.52.10
 	github.com/redis/go-redis/v9 v9.17.1
+	github.com/teris-io/shortid v0.0.0-20220617161101-71ec9f2aa569
 )
 
 require (
